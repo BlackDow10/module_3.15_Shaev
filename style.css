@@ -1,0 +1,26 @@
+div{
+	background: gray;
+	width: 90%;
+	margin:auto;
+
+}
+
+form{
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+ input{
+ 	margin: 10px;
+ }
+
+ h1{
+ 	text-align: center;
+ 	color: gray;
+ }
+
+ .result{
+ 	color: orange;
+ 	font-style: italic;
+ 	font-weight: bold;
+ }
